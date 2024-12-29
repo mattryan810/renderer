@@ -18,3 +18,4 @@ I would:
   - Fix project function such that moving backwards and forwards doesn't seem to go up and down also
   - Fix project so when the object is moved off to the side of the screen, it actually disappears
 
+This was compiled for MacOS and so from what I've read, the .exe may not work on Windows. To recompile, Eigen and SFML need to be linked, but otherwise it should work!
