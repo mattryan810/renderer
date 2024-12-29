@@ -3,9 +3,9 @@ This is my first C++ project!
 
 The purpose of this was to develop a simple 3D graphics renderer using only basic 2D grahics packages. I set myself the challenge of doing all the conceptual stuff and math myself, only using external resources to help me learn to code.
 
-I like drawing and specifically focus a lot on perspective. Since I'm a math major and wanted to learn C++ anyway, this seemed like an interesting project. The math was fairly simple - most of which you can see in my notes - but implementing it in C without knowing the language at all was not. I used a variety of resources in this project including the SFML and Eigen documentation and my savior - ChatGPT. I did not directly copy any code without writing it myself and ensuring I understood as best I could what I was writing. I used it mostly for suggestions (how to approach problems, best practices, and which commands to use) and revisions/explaining why stuff didn't work.
+I like drawing and specifically focus a lot on perspective. Since I'm a math major and wanted to learn C++ anyway, this seemed like an interesting project. The math was fairly simple - most of which you can see in my notes - but implementing it in C without knowing the language at all was not. I accessed several resources to help me learn how to write in C++ and figure out how to implement the math in my code. I used the SFML and Eigen documentation and my savior - ChatGPT. I did not directly copy any code without writing it myself and ensuring I understood as best I could what I was writing. I used it mostly for suggestions (how to approach problems, best practices, and which commands to use) and revisions/explaining why stuff didn't work.
 
-There are a few things I would do differently if I had to restart and a few bugs I would fix if this had to be presentable:
+There are a few things I would do differently if I had to restart and a few bugs I would fix if this was more than just for fun:
 I would:
   - Alter some classes to simplify, maybe combine the camera and renderer
   - Maybe add a vertex class to carry more info and do computations internally, thus simplifying cube and shape
